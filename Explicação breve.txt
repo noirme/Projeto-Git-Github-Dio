@@ -1,2 +1,2 @@
-<em>eu uso um aplicativo para anotar tudo o que estudo sobre o curso :D</em>
+_eu uso um aplicativo para anotar tudo o que estudo sobre o curso :D_
 portanto, não estarei fazendo anotações nesse repositório
